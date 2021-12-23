@@ -1,0 +1,17 @@
+001Fernando Santos	Av. rui coelho		    88873556Analista30002999876545679878963
+003Diego Santos		Rua joão maria		    66647775Analista30007398273927397293879
+004Rafael Santos	Avdo cursino		    66647775Analista30002535235826382763826
+005Fatima Oliveira	Rua dos Jurupis		    66687483Analista30003238276382763823628
+006Danilo Oliveira	Praça augusto azevedo	67647644Analista30002638263283628362386
+007Caio Augusto		Rua teras		        63736363Analista30002372638263823628326
+008Diogo Azevedo	rua gibas		        53535353Analista30003276382362836238263
+009Aline Custodio	av constelação		    94797949Analista30002327302730130129833
+010Juliana Priscila	av jornalista		    84638664Analista30002310230129831029830
+011Robson Leite		rua casacais		    65653653Analista30003123765716253712653
+012Guilherme Cunha	travessa aristidis	    35372856Analista30000980192830192831090
+013Ana Carolina		av presidente 		    36563573Analista30003291872391827319827
+014Ana Paula		av brasil		        36437434Analista30001289371928371923871
+015Maria Vitoria	rua dos marapes		    75353853Analista30002183971293712983713
+016Maria Cristina	travessa zurich		    73873911Analista30002198371298371923719
+017Vitoria		    rua dos submarinos      39797979Analista30003198237192873192837	
+018Gabriela		    praça augusta		    24744477Analista30001237127391273918273

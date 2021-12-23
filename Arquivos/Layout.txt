@@ -1,0 +1,11 @@
+Layout
+
+id 		01 - 04
+Nome 		05 - 25
+endereço	26 - 49
+telefone	50 - 65
+cargo		66 - 81
+Salario		82 - 85
+cpf		86 - 96
+rg		97 - 104
+		
